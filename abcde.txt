@@ -1,0 +1,5 @@
+# Try to duplicate file version changes described
+# in "Combining Files Using Original" section
+A
+B
+D
